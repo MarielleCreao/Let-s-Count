@@ -1,5 +1,9 @@
 # Let's-Count
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67730193/97215781-ac22c500-17a3-11eb-8ac5-86c3da2807d3.png" width="500">
+</p>
+
 ---
 ## 📋 Index
 - [Project Description](#-Project-Description)
